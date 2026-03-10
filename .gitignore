@@ -1,0 +1,16 @@
+.DS_Store
+*.DS_Store
+
+# Organizational documents (not website code)
+Documents/
+Fundraising/
+Meeting Notes/
+Miracle Field Board of Directors/
+Presentations/
+Receipts/
+memory/
+
+# Claude project files
+CLAUDE.md
+TASKS.md
+dashboard.html
